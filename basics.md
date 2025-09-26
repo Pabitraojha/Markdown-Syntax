@@ -66,13 +66,16 @@ to add tic mark
 
 for Super Script and Sub script
 ---
-h~2~O
+h~2~O 
+<!--haer this tag doesnot work we have to use sub and super tag-->
 <!-- same as the above you can only see it on github or though enhanced preview -->
+h<sub>2</sub>O
 
 To create table
 ---
 | Column1 | column2 | column3 |
 | --- | --- | --- |
 | row 1 | row 2 | row 3 |
+
 
 
